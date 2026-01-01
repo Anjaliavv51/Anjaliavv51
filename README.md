@@ -74,9 +74,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Anjaliavv51&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Anjaliavv51's GitHub | Stats](https://stats.quine.sh/Anjaliavv51/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ojas-Arora)
-
-[![Anjaliavv51's GitHub | Languages Over Time](https://stats.quine.sh/Anjaliavv51/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Anjaliavv51)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![An image of @plpanjali05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/plpanjali05)](https://holopin.io/@plpanjali05)
