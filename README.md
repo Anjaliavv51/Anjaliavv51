@@ -74,9 +74,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Anjaliavv51&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!-- 
 [![An image of @plpanjali05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/plpanjali05)](https://holopin.io/@plpanjali05)
+
+-->
 
 
 
