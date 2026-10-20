@@ -45,13 +45,13 @@
 name:        Pamidi Lakshmi Pavananjali
 github:      Anjaliavv51
 education:   B.Tech CSE (AIML) — Amrita Vishwa Vidyapeetham
-year:        3rd Year (Batch of 2027)
+year:        4th Year (Batch of 20232027)
 currently:
-  - 🎓 Pursuing B.Tech, Third Year
+  - 🎓 Pursuing B.Tech, Fourth Year
   - 📘 Learning System Design
   - 🤝 Open to Open Source contributions
-ask_me_about: [Docker, Java, Postman, MySQL]
-interests:   [AI/ML, Robotics, Web Dev, Open Source]
+ask_me_about: [Docker, Java, Postman, MySQL, NLP]
+interests:   [AI/ML, NLP, Web Dev, Open Source]
 ```
 
 </td>
