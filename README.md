@@ -224,7 +224,7 @@ interests:   [AI/ML, NLP, Web Dev, Open Source]
 |:---:|:---:|:---:|
 | System Design | Web apps & mini games | Open Source projects |
 | Docker & Containers | AI / ML experiments | Hackathons & community events |
-| Backend with Java | Robotics ideas | Peer learning |
+| Backend with Java | Building NLP Projects | Peer learning |
 
 </div>
 
