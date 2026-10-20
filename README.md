@@ -74,13 +74,13 @@ interests:   [AI/ML, NLP, Web Dev, Open Source]
 <div align="center">
 
 <p><b>Languages</b></p>
-<img alt="Java, Python, JavaScript, HTML, CSS, C, C++" src="https://skillicons.dev/icons?i=java,python,js,html,css,c,cpp&theme=dark" />
+<img alt="Java, Python, JavaScript, HTML, CSS, C" src="https://skillicons.dev/icons?i=java,python,js,html,css,c&theme=dark" />
 
 <p><b>Backend, Databases & DevOps</b></p>
 <img alt="Docker, MySQL, Postman, Git, GitHub, Linux" src="https://skillicons.dev/icons?i=docker,mysql,postman,git,github,linux&theme=dark" />
 
 <p><b>Tools & Platforms</b></p>
-<img alt="VS Code, IntelliJ, Arduino, Figma" src="https://skillicons.dev/icons?i=vscode,idea,arduino,figma&theme=dark" />
+<img alt="VS Code" src="https://skillicons.dev/icons?i=vscode&theme=dark" />
 
 </div>
 
