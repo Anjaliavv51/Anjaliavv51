@@ -45,13 +45,13 @@
 name:        Pamidi Lakshmi Pavananjali
 github:      Anjaliavv51
 education:   B.Tech CSE (AIML) — Amrita Vishwa Vidyapeetham
-year:        4th Year (Batch of 20232027)
+year:        3rd Year (Batch of 2027)
 currently:
-  - 🎓 Pursuing B.Tech, Fourth Year
+  - 🎓 Pursuing B.Tech, Third Year
   - 📘 Learning System Design
   - 🤝 Open to Open Source contributions
-ask_me_about: [Docker, Java, Postman, MySQL, NLP]
-interests:   [AI/ML, NLP, Web Dev, Open Source]
+ask_me_about: [Docker, Java, Postman, MySQL]
+interests:   [AI/ML, Robotics, Web Dev, Open Source]
 ```
 
 </td>
@@ -74,13 +74,13 @@ interests:   [AI/ML, NLP, Web Dev, Open Source]
 <div align="center">
 
 <p><b>Languages</b></p>
-<img alt="Java, Python, JavaScript, HTML, CSS, C" src="https://skillicons.dev/icons?i=java,python,js,html,css,c&theme=dark" />
+<img alt="Java, Python, JavaScript, HTML, CSS, C, C++" src="https://skillicons.dev/icons?i=java,python,js,html,css,c,cpp&theme=dark" />
 
 <p><b>Backend, Databases & DevOps</b></p>
 <img alt="Docker, MySQL, Postman, Git, GitHub, Linux" src="https://skillicons.dev/icons?i=docker,mysql,postman,git,github,linux&theme=dark" />
 
 <p><b>Tools & Platforms</b></p>
-<img alt="VS Code" src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+<img alt="VS Code, IntelliJ, Arduino, Figma" src="https://skillicons.dev/icons?i=vscode,idea,arduino,figma&theme=dark" />
 
 </div>
 
@@ -100,7 +100,7 @@ interests:   [AI/ML, NLP, Web Dev, Open Source]
 
 <br/><br/>
 
-<img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Anjaliavv51&bg_color=0f0c29&color=24C6DC&line=A29BFE&point=ffffff&area=true&area_color=302b63&hide_border=true" width="100%" />
+<img alt="Contribution chart" src="https://ghchart.rshah.org/24C6DC/Anjaliavv51" width="95%" />
 
 </div>
 
@@ -178,9 +178,9 @@ interests:   [AI/ML, NLP, Web Dev, Open Source]
 <br/><br/>
 
 <a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" height="110" alt="Code Luminary" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" height="110" alt="Git Explorer" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" height="110" alt="Pull Expert" />
+<img src="https://img.shields.io/badge/%F0%9F%8F%85-Code%20Luminary-ff6b6b?style=for-the-badge" alt="Code Luminary" />
+<img src="https://img.shields.io/badge/%F0%9F%A7%AD-Git%20Explorer-24C6DC?style=for-the-badge" alt="Git Explorer" />
+<img src="https://img.shields.io/badge/%F0%9F%A6%88-Pull%20Expert-A29BFE?style=for-the-badge" alt="Pull Expert" />
 </a>
 
 <br/><br/>
@@ -194,9 +194,6 @@ interests:   [AI/ML, NLP, Web Dev, Open Source]
 <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" height="80" title="Quickdraw" />
 </a>
 
-<br/><br/>
-
-<img alt="Top contributed repositories" src="https://github-contributor-stats.vercel.app/api?username=Anjaliavv51&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 
 </div>
 
@@ -224,7 +221,7 @@ interests:   [AI/ML, NLP, Web Dev, Open Source]
 |:---:|:---:|:---:|
 | System Design | Web apps & mini games | Open Source projects |
 | Docker & Containers | AI / ML experiments | Hackathons & community events |
-| Backend with Java | Building NLP Projects | Peer learning |
+| Backend with Java | Robotics ideas | Peer learning |
 
 </div>
 
