@@ -45,13 +45,13 @@
 name:        Pamidi Lakshmi Pavananjali
 github:      Anjaliavv51
 education:   B.Tech CSE (AIML) — Amrita Vishwa Vidyapeetham
-year:        3rd Year (Batch of 2027)
+year:        4th Year (Batch of 2023-2027)
 currently:
-  - 🎓 Pursuing B.Tech, Third Year
+  - 🎓 Pursuing B.Tech, Fourth Year
   - 📘 Learning System Design
   - 🤝 Open to Open Source contributions
-ask_me_about: [Docker, Java, Postman, MySQL]
-interests:   [AI/ML, Robotics, Web Dev, Open Source]
+ask_me_about: [Docker, Java, Postman, MySQL, NLP]
+interests:   [AI/ML, NLP, Web Dev, Open Source]
 ```
 
 </td>
@@ -74,13 +74,13 @@ interests:   [AI/ML, Robotics, Web Dev, Open Source]
 <div align="center">
 
 <p><b>Languages</b></p>
-<img alt="Java, Python, JavaScript, HTML, CSS, C, C++" src="https://skillicons.dev/icons?i=java,python,js,html,css,c,cpp&theme=dark" />
+<img alt="Java, Python, JavaScript, HTML, CSS, C" src="https://skillicons.dev/icons?i=java,python,js,html,css,c&theme=dark" />
 
 <p><b>Backend, Databases & DevOps</b></p>
 <img alt="Docker, MySQL, Postman, Git, GitHub, Linux" src="https://skillicons.dev/icons?i=docker,mysql,postman,git,github,linux&theme=dark" />
 
 <p><b>Tools & Platforms</b></p>
-<img alt="VS Code, IntelliJ, Arduino, Figma" src="https://skillicons.dev/icons?i=vscode,idea,arduino,figma&theme=dark" />
+<img alt="VS Code" src="https://skillicons.dev/icons?i=vscode&theme=dark" />
 
 </div>
 
@@ -221,7 +221,7 @@ interests:   [AI/ML, Robotics, Web Dev, Open Source]
 |:---:|:---:|:---:|
 | System Design | Web apps & mini games | Open Source projects |
 | Docker & Containers | AI / ML experiments | Hackathons & community events |
-| Backend with Java | Robotics ideas | Peer learning |
+| Backend with Java | Building Attention Based Projects | Peer learning |
 
 </div>
 
