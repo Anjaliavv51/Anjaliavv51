@@ -1,7 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=240&section=header&text=Pamidi%20Lakshmi%20Pavananjali&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Anjaliavv51%20%E2%80%A2%20CSE%20(AI%20%26%20ML)%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=170&section=header&animation=fadeIn" width="100%" alt="" />
+
+<h1>Pamidi Lakshmi Pavananjali</h1>
+<p><b>@Anjaliavv51</b> • B.Tech CSE (AI &amp; ML) • Amrita Vishwa Vidyapeetham • Open Source Contributor</p>
 
 <a href="https://github.com/Anjaliavv51">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=24C6DC&center=true&vCenter=true&width=720&height=60&lines=Hi+there%2C+I'm+Anjali+%F0%9F%91%8B;Undergraduate+%40+Amrita+Vishwa+Vidyapeetham+%F0%9F%8E%93;CSE+%E2%80%94+Artificial+Intelligence+%26+Machine+Learning+%F0%9F%A4%96;GSSoC'24+Open+Source+Contributor+%F0%9F%8C%B1;Robotics+Enthusiast+%7C+Learning+System+Design+%F0%9F%9A%80" alt="Typing SVG" />
@@ -19,7 +22,7 @@
 <a href="https://www.linkedin.com/in/lakshmi-pavananjali-pamidi-766760296/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/ppavanajali"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://github.com/Anjaliavv51?tab=repositories"><img src="https://img.shields.io/badge/Repositories-16-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=Anjaliavv51&label=Profile%20Views&color=24c6dc&style=for-the-badge" />
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=Anjaliavv51&label=Profile%20Views&color=24c6dc&style=for-the-badge" />
 
 </div>
 
@@ -71,13 +74,13 @@ interests:   [AI/ML, Robotics, Web Dev, Open Source]
 <div align="center">
 
 <p><b>Languages</b></p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,cpp&theme=dark" />
+<img alt="Java, Python, JavaScript, HTML, CSS, C, C++" src="https://skillicons.dev/icons?i=java,python,js,html,css,c,cpp&theme=dark" />
 
 <p><b>Backend, Databases & DevOps</b></p>
-<img src="https://skillicons.dev/icons?i=docker,mysql,postman,git,github,linux&theme=dark" />
+<img alt="Docker, MySQL, Postman, Git, GitHub, Linux" src="https://skillicons.dev/icons?i=docker,mysql,postman,git,github,linux&theme=dark" />
 
 <p><b>Tools & Platforms</b></p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,arduino,figma&theme=dark" />
+<img alt="VS Code, IntelliJ, Arduino, Figma" src="https://skillicons.dev/icons?i=vscode,idea,arduino,figma&theme=dark" />
 
 </div>
 
@@ -88,16 +91,16 @@ interests:   [AI/ML, Robotics, Web Dev, Open Source]
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anjaliavv51&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24C6DC&icon_color=A29BFE&text_color=ffffff&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjaliavv51&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24C6DC&text_color=ffffff" />
+<img height="180" alt="Anjali GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Anjaliavv51&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24C6DC&icon_color=A29BFE&text_color=ffffff&count_private=true&include_all_commits=true" />
+<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjaliavv51&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24C6DC&text_color=ffffff" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Anjaliavv51&theme=tokyonight&hide_border=true&background=0f0c29&ring=24C6DC&fire=FF6B6B&currStreakLabel=24C6DC" />
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Anjaliavv51&theme=tokyonight&hide_border=true&background=0f0c29&ring=24C6DC&fire=FF6B6B&currStreakLabel=24C6DC" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjaliavv51&bg_color=0f0c29&color=24C6DC&line=A29BFE&point=ffffff&area=true&area_color=302b63&hide_border=true" width="100%" />
+<img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Anjaliavv51&bg_color=0f0c29&color=24C6DC&line=A29BFE&point=ffffff&area=true&area_color=302b63&hide_border=true" width="100%" />
 
 </div>
 
@@ -151,6 +154,15 @@ interests:   [AI/ML, Robotics, Web Dev, Open Source]
 </tr>
 </table>
 
+<sub>
+<a href="https://github.com/Anjaliavv51/Retro">Retro</a> •
+<a href="https://github.com/Anjaliavv51/Matrubodhah">Matrubodhah</a> •
+<a href="https://github.com/Anjaliavv51/BoxMerge">BoxMerge</a> •
+<a href="https://github.com/Anjaliavv51/Touch-No-Fire-Game">Touch-No-Fire-Game</a> •
+<a href="https://github.com/Anjaliavv51/TuneCrate">TuneCrate</a> •
+<a href="https://github.com/Anjaliavv51/Message-Flow">Message-Flow</a>
+</sub>
+
 </div>
 
 <br/>
@@ -184,7 +196,7 @@ interests:   [AI/ML, Robotics, Web Dev, Open Source]
 
 <br/><br/>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Anjaliavv51&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+<img alt="Top contributed repositories" src="https://github-contributor-stats.vercel.app/api?username=Anjaliavv51&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 
 </div>
 
