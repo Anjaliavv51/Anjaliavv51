@@ -86,26 +86,6 @@ interests:   [AI/ML, NLP, Web Dev, Open Source]
 
 <br/>
 
-<!-- ===================== STATS ===================== -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-
-<img height="180" alt="Anjali GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Anjaliavv51&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24C6DC&icon_color=A29BFE&text_color=ffffff&count_private=true&include_all_commits=true" />
-<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjaliavv51&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24C6DC&text_color=ffffff" />
-
-<br/>
-
-<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Anjaliavv51&theme=tokyonight&hide_border=true&background=0f0c29&ring=24C6DC&fire=FF6B6B&currStreakLabel=24C6DC" />
-
-<br/><br/>
-
-<img alt="Contribution chart" src="https://ghchart.rshah.org/24C6DC/Anjaliavv51" width="95%" />
-
-</div>
-
-<br/>
-
 <!-- ===================== PROJECTS ===================== -->
 <h2 align="center">🚀 Featured Projects</h2>
 
